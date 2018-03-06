@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Class.txt.ft">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/cms/index/CmsAppIndexFallsVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/result/ResultCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/java/com/chinaredstar/retail/appserver/cms/dao/TbCmsAppIndexFallsMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/java/com/chinaredstar/retail/appserver/cms/model/TbCmsAppIndexFalls.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/java/com/chinaredstar/retail/appserver/cms/service/impl/CmsAdvertisementServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/java/com/chinaredstar/retail/appserver/cms/service/impl/CmsIndexAdvertisementServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/java/com/chinaredstar/retail/appserver/cms/task/AdOfflineTimerJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/java/com/chinaredstar/retail/appserver/cms/web/v100/RetailIndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/com/chinaredstar/cms/databases/mapper/TbCmsAppIndexFallsMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/config/dev/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/config/dev/rabbitMQ.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/config/prd/rabbitMQ.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/config/stg/rabbitMQ.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/config/uat1/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/config/uat1/rabbitMQ.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/main/resources/spring/application-dubbo.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-cms/src/test/resources/MBG_configuration.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/p-retail-appserver-common/src/main/java/com/chinaredstar/retail/appserver/common/util/PingYinUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver-1/temp/.dubbo/dubbo-registry-cache-cms.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-active/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/api/Item/services/IServerItemPromotionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/api/item/services/IServerItemPromotionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/api/item/services/IServerItemService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/api/shop/services/IServerItemPromotionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/api/shop/services/IServerItemService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/GoodColorStandardVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/GoodsServiceTag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/GoodsServiceTagVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ItemAndPromotionDetailVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ItemInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ItemPromotionVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ItemSubPromotionAndCouponInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ProductAttributeVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ProductColorListVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ProductColorStandardListVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ProductColorStandardVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ProductCommodityAttrVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ProductShopGoodsColorStandardVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ProductTextVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/ShopInfoBriefVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/coupon/ItemCouponInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/coupon/ItemCouponInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/coupon/ItemCouponUseConditionVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/item/promotion/ItemSubPromotionInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-api/src/main/java/com/chinaredstar/retail/appserver/vo/result/ResultCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-common/src/main/java/com/chinaredstar/retail/appserver/common/component/RequestTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/component/RequestTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/item/impl/ServerItemPromotionServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/item/impl/ServerItemServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/item/services/impl/ServerItemPromotionServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/item/services/impl/ServerItemServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/item/vo/ItemPromotionVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/item/web/v100/ItemController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/java/com/chinaredstar/retail/appserver/shop/services/impl/ServerPromotionClientService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/resources/config/dev/restRequest.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/resources/config/prd/restRequest.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/resources/config/stg/restRequest.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/resources/config/uat1/restRequest.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/p-retail-appserver-shop/src/main/resources/spring/spring-dubbo.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-retail-appserver/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/.idea/vcs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/SeoWapApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/basic/References.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/comm/aop/MethodNavAop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/comm/componet/CookieTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/comm/componet/DomainComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/comm/componet/RequestTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/comm/config/UrlRewriteFilterConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/comm/util/DomainUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/BrandController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/CategoryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/CommonController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/GoodsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/MarketController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/PromotionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/ShopController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/IBrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/IGoodService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/impl/BrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/impl/CityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/impl/GoodService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/impl/GoodServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/impl/MarketService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/service/impl/PromotionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/DomainVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandCategoryVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandCollectionVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandContentResultVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandIndexFallsVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandListQueryVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandQueryVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandResultVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandTagVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandTagsWithKeyVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/BrandVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipBrandStoryModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipBrandStoryModuleVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipFirstModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipFirstModuleVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipPullModuleVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipRichContentInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/FlagshipSceneGoodVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/NewGoodsIntroResultVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/OfficeHour.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/OfficialFlagshipExperienceShopQueryVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/OfficialFlagshipExperienceShopVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/brand/ShowCategoryVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/cms/article/ArticleMarketVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/goods/GoodAdPromotionDetailVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/goods/GoodAndPromotionDetailVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/goods/GoodsInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/goods/GoodsServiceTag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/goods/ItemAdPromotionDetailVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/goods/ItemCouponInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/goods/ItemPromotionVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/promotion/PromotionTicketVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/java/com/chinaredstar/seo/wap/vo/pv/PvResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/dev/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/dev/url-rewrite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/dev/url.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/prd/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/prd/url-rewrite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/prd/url.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/stg/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/stg/url-rewrite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/stg/url.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/uat1/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/uat1/url-rewrite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/config/uat1/url.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/spring/url-rewrite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/css/brand/brandDetail.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/css/brand/chooseBrand.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/css/common.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/css/goods/goods-detail.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/css/market/market-detail.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/api.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/brand/brandDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/brand/chooseBrand.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/brand/newGoodsDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/common.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/common_page.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/common_page_get.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/common_request.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/couponDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/couponGet.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/goods/goods-detail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/jquery-3.2.1.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/market/market-detail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/market/new-market-list.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/nav.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/new-gaode.map.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/static/js/shop-list.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/brand/brand-detail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/brand/brandContentDetail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/brand/brandDetail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/brand/chooseBrand.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/brand/newGoodsDetail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/common/bottomDownload.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/common/topDownload.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/goods/goods-detail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/goodsDetail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/market/market-detail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/market/market-list.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/shop-detail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/shop-goodsList.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/p-seowap/src/main/resources/templates/shop-list.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-common/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-common/src/main/java/com/fy/taotao/api/IItemDescService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-common/src/main/java/com/fy/taotao/api/IItemService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-common/src/main/java/com/fy/taotao/component/EasyUIResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-common/src/main/java/com/fy/taotao/vo/EasyUITreeNodeVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-common/src/main/java/com/fy/taotao/vo/TbItemDescVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/controller/FileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/controller/ItemController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/controller/indexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/dao/TbItemDescMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/service/ItemDescService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/service/ItemService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/service/PictureService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/java/com/fy/taotao/task/IndexAdOfflineHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/resources/com/fy/taotao/mapper/TbItemDescMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/resources/config/dev/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/resources/config/dev/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/resources/static/js/common.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/resources/templates/item-add.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/resources/templates/item-edit.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/IntelliJ_IDEA/Project/taotao-parent/taotao-manager/src/main/resources/templates/item-list.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaProject/src/com/fy/demo/rabbit/MQProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/GoodsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../p-seowap/src/main/java/com/chinaredstar/seo/wap/controller/MarketController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../p-seowap/src/main/resources/spring/url-rewrite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../p-seowap/src/main/resources/templates/newProductDetail.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smart-framework/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smart-framework/src/main/java/com/fy/smart/rabbit/MQConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smart-framework/src/main/java/com/fy/smart/rabbit/MQProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/BeanMetadataElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/DisposableBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/HierarchicalBeanFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/ListableBeanFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/RootBeanDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-beans/src/test/java/org/springframework/beans/BeanWrapperGenericsTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-context/src/main/java/org/springframework/context/ConfigurableApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-context/src/main/java/org/springframework/context/MessageSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractRefreshableApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-core/src/main/java/org/springframework/core/SimpleAliasRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-core/src/main/java/org/springframework/core/env/EnvironmentCapable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-web/src/main/java/org/springframework/web/util/UrlPathHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/handler/AbstractDetectingUrlHandlerMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/condition/AbstractNameValueExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/condition/ParamsRequestCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/method/RequestMappingInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/AbstractBeanDefinitionReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/BeanDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/BeanDefinitionReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/PropertyValue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/PropertyValues.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/factory/AbstractBeanFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/factory/BeanDefinitionRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/factory/BeanFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/factory/SimpleBeanDefinitionRegistry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/io/AbstractResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/io/InputStreamSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/io/Resource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/io/ResourceLoader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/io/UrlResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/beans/xml/XmlBeanDefinitionReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/context/AbstractApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/context/ClassPathXmlApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/core/env/Enviroment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/core/env/EnviromentCapable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/core/env/Environment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/core/env/EnvironmentCapable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/core/env/PropertyResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/utils/ClassUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/utils/CollectionUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/utils/ObjectUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/utils/ResourceUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/utils/StringUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/bind/annotation/Mapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/bind/annotation/RequestMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/bind/annotation/RequestMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/servlet/condition/AbstractNameValueExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/servlet/condition/AbstractRequestCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/servlet/condition/NameValueExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/servlet/condition/PatternsRequestCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/servlet/condition/RequestCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/util/AntPathMatcher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/util/PathMacther.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/util/PathMatcher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/util/UrlPathHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/util/WebUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/fy/example/spring/web/util/WebUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

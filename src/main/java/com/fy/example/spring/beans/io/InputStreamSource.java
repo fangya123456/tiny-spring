@@ -4,10 +4,11 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
+ * 输入流接口
  *
  * @author ya.fang
- * @date 2017/11/20
- */
-public interface Resource {
+ * @create 2018/01/15
+ **/
+public interface InputStreamSource {
     InputStream getInputStream() throws IOException;
 }
